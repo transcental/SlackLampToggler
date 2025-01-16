@@ -1,0 +1,4 @@
+flask
+requests
+slack_bolt
+python-dotenv
